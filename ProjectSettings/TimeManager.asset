@@ -1,9 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!5 &1
-TimeManager:
-  m_ObjectHideFlags: 0
-  Fixed Timestep: 0.01
-  Maximum Allowed Timestep: 0.1
-  m_TimeScale: 1
-  Maximum Particle Timestep: 0.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e7d34c7aa45d6324e26a9a757c6d23560f114d936b7a484f8468aa35bbe500c
+size 194
