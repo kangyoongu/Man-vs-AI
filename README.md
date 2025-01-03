@@ -1,4 +1,4 @@
-## 2년 때 개발한 강화학습을 이용 게임입니다.
+## 2년 2학기때 개발한 강화학습을 이용 게임입니다.
 ![icon](https://github.com/user-attachments/assets/f1976c57-ea67-4977-a89a-93069bb6d33d)
 ---
 
